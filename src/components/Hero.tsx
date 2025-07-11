@@ -16,7 +16,7 @@ export default function Hero() {
         transition={{ duration: 0.8 }}
         className="text-4xl sm:text-5xl font-extrabold text-white leading-snug"
       >
-        👋 Hi, I'm{' '}
+        👋 Hi, I&#39;m{' '}
         <span className="block text-purple-500 text-[42px] sm:text-[60px] font-extrabold mt-2">
           Jayasri Panchamurthi
         </span>
