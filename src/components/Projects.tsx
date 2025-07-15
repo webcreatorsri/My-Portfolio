@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'AI Tool Recommender Chatbot',
     description: 'Chatbot that recommends the best AI tools based on your prompt using NLP.',
-    tech: 'Python, Streamlit, NLP',
+    tech: 'Python, Streamlit, NLP,SQLite',
     github: 'https://github.com/webcreatorsri/Ai-Tool-Recommender',
     live: '',
   },
