@@ -17,6 +17,8 @@ import {
   SiGooglecloud,
   SiSqlite,
   SiWebflow,
+  SiDjango,
+  SiPostgresql,
 } from 'react-icons/si';
 
 const allSkills = [
@@ -27,8 +29,10 @@ const allSkills = [
   { name: 'React.js', icon: <FaReact size={40} className="text-cyan-400" /> },
   { name: 'Node.js', icon: <FaNodeJs size={40} className="text-green-500" /> },
   { name: '.NET Core', icon: <SiDotnet size={40} className="text-purple-400" /> },
+  { name: 'Django', icon: <SiDjango size={40} className="text-green-600" /> },
   { name: 'Entity Framework', icon: <SiDotnet size={40} className="text-green-300" /> },
   { name: 'MySQL', icon: <SiMysql size={40} className="text-yellow-300" /> },
+  { name: 'PostgreSQL', icon: <SiPostgresql size={40} className="text-blue-500" /> },
   { name: 'SQLite', icon: <SiSqlite size={40} className="text-white" /> },
   { name: 'Flask', icon: <SiFlask size={40} className="text-white" /> },
   { name: 'Streamlit', icon: <SiStreamlit size={40} className="text-pink-400" /> },

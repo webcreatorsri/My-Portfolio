@@ -20,15 +20,15 @@ const projects = [
   {
     title: 'AI Tool Recommender Chatbot',
     description: 'Chatbot that recommends the best AI tools based on your prompt using NLP.',
-    tech: 'Python, Streamlit, NLP',
+    tech: 'Python, Streamlit, NLP,SQLite',
     github: 'https://github.com/webcreatorsri/Ai-Tool-Recommender',
     live: '',
   },
   {
-    title: '50+ Python Mini Tools',
+    title: '50+ Python Mini Tools in 1 App',
     description: 'Collection of Python mini apps and utilities — fast and useful.',
-    tech: 'Python, Flask, MYSQL',
-    github: 'https://github.com/webcreatorsri/100dayscourse-miniprojects',
+    tech: 'Python, React, Django Framework, PostgreSQL',
+    github: 'https://github.com/webcreatorsri/50-mini-tools-1-app',
     live: '',
   },
 ];

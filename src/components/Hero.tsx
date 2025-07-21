@@ -16,7 +16,7 @@ export default function Hero() {
         transition={{ duration: 0.8 }}
         className="text-4xl sm:text-5xl font-extrabold text-white leading-snug"
       >
-        👋 Hi, I'm{' '}
+        👋 Hi, I&#39;m{' '}
         <span className="block text-purple-500 text-[42px] sm:text-[60px] font-extrabold mt-2">
           Jayasri Panchamurthi
         </span>
@@ -63,7 +63,7 @@ export default function Hero() {
 
         <motion.a
           whileHover={{ scale: 1.05 }}
-          href="https://drive.google.com/file/d/1yX4Ou39OOLBFCIZxVOK9tlQzeiLDMeT6/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1RTwzagHAaobowfNHWbYYbpiXEjRR92tP/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 inline-block px-6 py-3 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-semibold transition"
