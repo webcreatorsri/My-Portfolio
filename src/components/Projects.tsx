@@ -32,7 +32,7 @@ const projects = [
     live: '',
   },
   {
-  title: 'Student-Course tracker- MERN Stack Project',
+  title: 'Student & Course tracker- MERN Stack',
   description: 'Full-stack application built with MongoDB, Express, React, and Node.js.',
   tech: 'MongoDB, Express, React, Node.js',
   github: 'https://github.com/webcreatorsri/Mernstack-project',
