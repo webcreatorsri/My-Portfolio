@@ -28,7 +28,7 @@ const projects = [
     github: 'https://github.com/webcreatorsri/50-mini-tools-1-app',
   },
   {
-  title: 'MERN Stack Project',
+  title: 'Student-Course tracker- MERN Stack Project',
   description: 'Full-stack application built with MongoDB, Express, React, and Node.js.',
   tech: 'MongoDB, Express, React, Node.js',
   github: 'https://github.com/webcreatorsri/Mernstack-project',
